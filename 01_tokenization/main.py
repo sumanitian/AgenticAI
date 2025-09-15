@@ -12,5 +12,3 @@ decoded = enc.decode([25216, 3274, 0, 3673, 1308, 382, 336, 9276, 2284, 99152])
 
 print("Decoded", decoded)
 # Decoded Hey There! My name is Suman Prasad
-
-# AIzaSyAT0PBPaAXmXOk6WQ-1nY08C5XiTTf7Y8Q
