@@ -27,11 +27,3 @@ response = client.chat.completions.create(
 )
 
 print(response.choices[0].message.content)
-
-
-# response = client.chat.completions.create(
-#     model = "gemini-2.5-flash",
-#     message=[
-#         {"role": "user", "content": "Hey There"}
-#     ]
-# )
